@@ -1,0 +1,86 @@
+.auth_page {
+  height: 100vh;
+  background-color: #ddd;
+}
+
+.auth_page .auth_div {
+  height: 100vh;
+}
+
+.auth_page .auth_div .auth_form {
+  background-color: #fff;
+  height: 500px;
+  width: 60%;
+  padding: 40px;
+  border-radius: 20px;
+}
+
+.auth_page .auth_div .auth_form input {
+  height: 50px;
+}
+
+.auth_page .auth_div .auth_form .auth_btn {
+  width: 300px;
+  height: 50px;
+}
+
+.sidebar {
+  background: #2f009e;
+}
+
+.sidebar ul li a {
+  color: #ccc;
+}
+
+.sidebar ul li a:hover {
+  color: #fff;
+}
+
+.admin-pages {
+  background-color: #ddd;
+}
+
+.index-page {
+  background-color: #fff;
+  min-height: 50vh;
+  border-radius: 20px;
+}
+
+.index-page table td .delete {
+  background-color: red;
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+}
+
+.detail_page .detail_title {
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 15px;
+  font-family: "Roboto Condensed", sans-serif;
+  border-bottom: 1px solid #2000ad;
+}
+
+.detail_page .personal_details {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+.detail_page .personal_details .info {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.detail_page .dossier_details {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.detail_page .dossier_details .info {
+  font-size: 15px;
+  font-weight: bold;
+}
+/*# sourceMappingURL=app.css.map */

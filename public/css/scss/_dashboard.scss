@@ -1,0 +1,26 @@
+.sidebar{
+    background:rgb(47, 0, 158);
+}
+.sidebar ul li a {
+    color:#ccc;
+}
+
+.sidebar ul li a:hover{
+    color:#fff;
+}
+.admin-pages{
+    background-color:#ddd;
+}
+.index-page{
+    background-color:#fff;
+    min-height:50vh;
+    border-radius:20px;
+
+
+}
+.index-page table td .delete{
+    background-color:red;
+    padding:10px;
+    color:white;
+    border-radius:10px;
+}
